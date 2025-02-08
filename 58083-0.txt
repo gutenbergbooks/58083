@@ -1,39 +1,7 @@
-The Project Gutenberg EBook of The Chronicles of Enguerrand de Monstrelet,
-(Vol. 7 of 13), by Enguerrand de Monstrelet
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll
-have to check the laws of the country where you are located before using
-this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 58083 ***
 
 
 
-Title: The Chronicles of Enguerrand de Monstrelet, (Vol. 7 of 13)
-       Containing an account of the cruel civil wars between the
-       houses of Orleans and Burgundy
-
-Author: Enguerrand de Monstrelet
-
-Translator: Thomas Johnes
-
-Release Date: October 12, 2018 [EBook #58083]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE CHRONICLES OF ENGUERRAND ***
-
-
-
-
-Produced by Graeme Mackreth andThe Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
 
 
 
@@ -203,7 +171,7 @@ _THE SEVENTH VOLUME_.
 
   CHAP. XIII.
 
-  The duke d'AlenÁon makes the chancellor
+  The duke d'Alen√ßon makes the chancellor
   of Brittany prisoner                                      57
 
 
@@ -1122,7 +1090,7 @@ Burgundians in the castle of Anglure,[1]--and he had approached so near
 as to batter the walls with his cannon and other artillery. The duke
 of Bedford, on hearing this, sent to their relief the earl of Arundel,
 with the eldest son of the earl of Warwick, the lord de l'Isle-Adam,
-the lord de Ch‚tillon, the lord de Bonneul, and other captains, with
+the lord de Ch√¢tillon, the lord de Bonneul, and other captains, with
 sixteen hundred men. After some days march, they came to Anglure,
 and found that the lord de Barbasan, having had intelligence of their
 motions, had retreated to a strong post, which he had also strengthened
@@ -1201,7 +1169,7 @@ have greatly scandalized all Christendom wherever they have been known.
 'But divine Mercy having taken pity on a loyal people, and being no
 longer willing to suffer them to remain under such vain errors and
 credulities, permitted that this woman should be made prisoner by your
-army when besieging CompiËgne, and through your affection she was
+army when besieging Compi√®gne, and through your affection she was
 transferred to our power.
 
 'On this being known, she was claimed by the bishop in whose diocese
@@ -1442,7 +1410,7 @@ CHAP. VIII.
 
 
 I have before mentioned that a serious quarrel[2] had taken place
-between RenÈ duke of Bar and Anthony de Lorraine count de Vaudemont.
+between Ren√© duke of Bar and Anthony de Lorraine count de Vaudemont.
 In consequence thereof, the duke of Bar had collected a great body of
 men at arms, as well from his own duchy as from other parts of Germany,
 to the amount of six thousand men. The principal leaders were the
@@ -1544,7 +1512,7 @@ any way neglected their duty.
 FOOTNOTES:
 
 [Footnote 2: The duchy of Bar having passed to the house of Anjou,
-RÈnÈ, in the year 1431, sent his bailiffs from Bar and St Michel to
+R√©n√©, in the year 1431, sent his bailiffs from Bar and St Michel to
 receive from Anthony of Lorraine count de Vaudemont, his acknowledgment
 of him as lord paramount. The duke insisted on having full obedience of
 all places within the county that had been held as fiefs from the dukes
@@ -1793,7 +1761,7 @@ stag was hunted by dogs and huntsmen,--and, after a long chace, it took
 refuge near the feet of the king's horse, when his majesty saved its
 life.
 
-At the entrance of the gate of the Ch‚telet was another scaffold, on
+At the entrance of the gate of the Ch√¢telet was another scaffold, on
 which was a representation of king Henry clothed in a robe of flower
 de luces, and having two crowns on his head. On his right hand were
 figures to personate the duke of Burgundy and the count de Nevers
@@ -1804,14 +1772,14 @@ tabard of arms.
 
 The king thence went to the palace, where the holy relics were
 displayed to him and to his company, and was then conducted to the
-hÙtel des Tournelles to partake of a repast. When he had dined, he
-went to visit the queen his grandmother at the hÙtel de St Pol. On the
+h√¥tel des Tournelles to partake of a repast. When he had dined, he
+went to visit the queen his grandmother at the h√¥tel de St Pol. On the
 morrow, he was carried to the castle of Vincennes, where he remained
 until the 15th day of December, when he returned to the palace.
 
 On the 17th of that month, he went from the palace in great pomp, and
 attended by a numerous body of nobles and ecclesiastics, to the church
-of NÙtre Dame for his coronation. In the nave of the church had been
+of N√¥tre Dame for his coronation. In the nave of the church had been
 erected a scaffold eight score feet long, and of a proper height, which
 was ascended from the nave, and led to the entrance of the choir.
 
@@ -1849,7 +1817,7 @@ supported by two angels; the third, a lady and peacock; the fourth, a
 lady and swan. It would be tiresome was I to relate all the various
 meats and wines, for they were beyond number. Many pieces of music were
 played on divers instruments; and on the morrow a gallant tournament
-was held at the hÙtel de St Pol, where the earl of Arundel and the
+was held at the h√¥tel de St Pol, where the earl of Arundel and the
 bastard de St Pol won the prizes, and gained the applause of the ladies
 for being the best tilters. King Henry, having made some days' stay at
 Paris, departed, and went to Rouen.
@@ -1858,7 +1826,7 @@ FOOTNOTES:
 
 [Footnote 5: _Nine worthies._ According to the Encyclopedie, vol. iv.
 supplement, the _neuf-preux_ were named Joshua, Gideon, Samson, David,
-Judas Macchabeus, Alexander, Julius CÊsar, Charlemagne and Godefroy de
+Judas Macchabeus, Alexander, Julius C√¶sar, Charlemagne and Godefroy de
 Bouillon. For further particulars, I refer to the Encyclopedie, where
 mention is made of this procession to meet Henry VI.]
 
@@ -1983,10 +1951,10 @@ FOOTNOTES:
 
 CHAP. XIII.
 
- THE DUKE D'ALEN«ON MAKES THE CHANCELLOR OF BRITTANY PRISONER.
+ THE DUKE D'ALEN√áON MAKES THE CHANCELLOR OF BRITTANY PRISONER.
 
 
-This year, the duke d'AlenÁon made his uncle's chancellor of Brittany
+This year, the duke d'Alen√ßon made his uncle's chancellor of Brittany
 prisoner, because he would not assist him with money according to
 his pleasure, for his ransom when captured at the battle of Vermeuil
 in Perche, which he looked to obtain from the chancellor. He carried
@@ -1994,13 +1962,13 @@ him prisoner to his town of Poussay. But in a short time, the duke of
 Brittany, being much exasperated at such conduct, assembled his barons
 and a large force of men at arms, whom, with some english captains,
 he marched to the town of Poussay, and besieged it all round,--but
-the duke d'AlenÁon had quitted it from fear of his enemies: he had,
+the duke d'Alen√ßon had quitted it from fear of his enemies: he had,
 however, left there his duchess, daughter to the duke of Orleans, then
 a prisoner in England, who was ill in child-bed, and sorely vexed at
 these matters.
 
 The siege was carried on for some time; but at length, the duke of
-AlenÁon, on account of the situation of the duchess, and to prevent
+Alen√ßon, on account of the situation of the duchess, and to prevent
 his town and subjects being further harrassed, made peace with his
 uncle, and restored to him his chancellor and the others whom he had
 made prisoners. Thus was the siege broken up. The duke had taken the
@@ -2026,11 +1994,11 @@ Thence the marshal sent off secretly a gentleman called Richarville
 with a hundred or six score combatants, all on foot, except four or
 five who were mounted on small horses, to the castle of Rouen, in which
 the marshal had for some time kept up a correspondence with a marauder
-on the part of the English named Pierre Audeboeuf, a BÈarn man, who had
+on the part of the English named Pierre Audeboeuf, a B√©arn man, who had
 promised to deliver up the castle to him.
 
 When Richarville and his detachment approached the castle, he found the
-BÈarnman ready to perform his promise; and they all entered, except a
+B√©arnman ready to perform his promise; and they all entered, except a
 few who were left to guard the horses. They instantly made themselves
 masters of the greater part of the castle, and particularly the great
 tower, which was well supplied with stores.
@@ -2164,7 +2132,7 @@ and seal, that he would yield it up whenever required.
 
 Sir Thomas soon collected a large company of English, whom he placed
 in this castle, and carried on a severe warfare against the towns on
-the French frontier, such as Creil, Beauvais, CompiËgne and others. In
+the French frontier, such as Creil, Beauvais, Compi√®gne and others. In
 like manner, did they act in regard to the castlewicks of Mondidier and
 other places under the obedience of the duke of Burgundy.
 
@@ -2427,7 +2395,7 @@ entered the town, he would do the same,--which expression was diversely
 construed by those who heard it.
 
 They advanced gallantly to storm the place; but by the vigilance and
-intrepidity of HuÁon Queue, a Scotsman, sir John Foucault, and the
+intrepidity of Hu√ßon Queue, a Scotsman, sir John Foucault, and the
 other captains in the town, they were boldly received, and very many
 of the assailants were killed or severely wounded. They lost also four
 or five of their banners and pennons, which were, by force of arms,
@@ -2565,7 +2533,7 @@ Laurence's day in August, and very hot, the two armies suffered greatly
 from it. The french captains, perceiving that they could not gain
 any advantage, for the English and Burgundians were strongly posted,
 retreated with their army to Cressy in Brie, where they halted for the
-night, and thence marched to Ch‚teau Thierry and to Vitry-le-FranÁois,
+night, and thence marched to Ch√¢teau Thierry and to Vitry-le-Fran√ßois,
 where they staid four days.
 
 The duke of Bedford, knowing that the French intended entering the Isle
@@ -2615,7 +2583,7 @@ obliged instantly to speak with them, or they would have forced an
 entrance through the doors and windows.
 
 When the magistrates appeared, they immediately put to death the deacon
-of small trades, called John BoÎlle, one of the sheriffs, named Jean
+of small trades, called John Bo√´lle, one of the sheriffs, named Jean
 Daniel van Zenere, with one of the counsellors called Jason Habit. The
 other magistrates were in fear of their lives from the cruelties they
 saw committed before their eyes; the mob, however, were contented with
@@ -2784,7 +2752,7 @@ Many noble lordships and rich estates were at the same time allotted
 her together with the county of Ostrevant, of which county alone she
 was now to style herself countess, laying aside all the titles of the
 above-named places. When these matters had been finally concluded, the
-duke consented that his cousin the duchess should marry sir FranÁois de
+duke consented that his cousin the duchess should marry sir Fran√ßois de
 Borselle, which had been secretly treated of between the parties. The
 duke of Burgundy henceforward styled himself, in addition to his former
 titles, Count of Hainault, Holland and Zealand, and lord of Frizeland.
@@ -2827,7 +2795,7 @@ CHAP. XXIX.
 
 
 In these days, Anne duchess of Bedford and sister to the duke of
-Burgundy lay ill, at the hÙtel of the Tournelles in Paris, of a
+Burgundy lay ill, at the h√¥tel of the Tournelles in Paris, of a
 lingering disorder, which in spite of all the care of her physicians,
 of whom she had many, carried her off from this life. She was buried in
 the same chapel of the Celestins where Louis, late duke of Orleans, had
@@ -3022,13 +2990,13 @@ CHAP. XXXV.
 
 
 In this same year, a great discord arose between sir John and sir
-Anthony du Vergy, burgundian knights, and the lord de Ch‚teau-Vilain,
-which ended in an open war. The lord de Ch‚teau-Vilain, the more to
+Anthony du Vergy, burgundian knights, and the lord de Ch√¢teau-Vilain,
+which ended in an open war. The lord de Ch√¢teau-Vilain, the more to
 annoy his enemies, turned to the party of the king of France, together
 with sir Legier d'Estouteville, Jean de Verpelleurs, and some other
 gentlemen, who had long been his allies and wellwishers. By this
 conduct they broke their oaths to the duke of Burgundy, their natural
-lord, with whom the lord de Ch‚teau-Vilain had been on the most
+lord, with whom the lord de Ch√¢teau-Vilain had been on the most
 intimate terms.
 
 This lord also returned the badge of the duke of Bedford which he
@@ -3039,8 +3007,8 @@ that he had thus falsified the oath he had made him.
 The duke of Burgundy was likewise very much displeased when it came
 to his knowledge, and he sent pressing orders to all his captains in
 Burgundy to exert themselves to the utmost in harrassing the lord
-de Ch‚teau-Vilain. In obeying these orders, the country of Burgundy
-suffered much,--for the lord de Ch‚teau-Vilain had many castles in
+de Ch√¢teau-Vilain. In obeying these orders, the country of Burgundy
+suffered much,--for the lord de Ch√¢teau-Vilain had many castles in
 different parts of it, which he garrisoned with his friends.
 
 By the forces of the duke, assisted by the lords du Vergy and others
@@ -3053,12 +3021,12 @@ Lasoncourt.
 The siege of Graussy lasted more than three months under the command
 of Jean du Vergy, the principal in this quarrel, having with him sir
 William de Baufremont, William de Vienne, sir Charles du Vergy, and
-twelve hundred combatants. The lord de Ch‚teau-Vilain, with the heir of
+twelve hundred combatants. The lord de Ch√¢teau-Vilain, with the heir of
 Commercy and Robert de Vaudricourt, and sixteen hundred fighting men,
 marched to raise the siege, when a grand skirmish took place, but only
 one man was killed.
 
-The lord de Ch‚teau-Vilain, however, finding that he could not attempt
+The lord de Ch√¢teau-Vilain, however, finding that he could not attempt
 to raise the siege without very great danger from the strength of his
 enemies, retreated to the place whence he had come; and shortly after,
 sir Denis de Sainct-Flour, who commanded within the castle, capitulated
@@ -3156,7 +3124,7 @@ entered into an agreement for security with them, for which they paid
 heavy sums of money.
 
 At this time also, by means of Perrinet Crasset, governor of la
-CharitÈ on the Loire for king Henry, was that town and castle given up.
+Charit√© on the Loire for king Henry, was that town and castle given up.
 It was strongly situated, and had not been conquered during the whole
 of the war.
 
@@ -3361,8 +3329,8 @@ reception,--and having called a council of war, resolved on their
 future proceedings.
 
 It was settled that the duchess should fix her residence with her
-attendants at Ch‚tillon-sur-Seine, while the duke marched to lay siege
-to Mussi-l'EvÍque, in the possession of the French. Great preparations
+attendants at Ch√¢tillon-sur-Seine, while the duke marched to lay siege
+to Mussi-l'Ev√™que, in the possession of the French. Great preparations
 were made, and many pieces of artillery were pointed against the gates
 and walls. The garrison once intended making an obstinate defence; but
 when they saw how numerous and well appointed were the duke's forces,
@@ -3372,7 +3340,7 @@ spared. On the conclusion of this treaty, they marched away under the
 duke's passports for St Florentin.
 
 When the duke had appointed a new garrison, he went to the duchess at
-Ch‚tillon, and his men at arms advanced toward the county of Tonnerre.
+Ch√¢tillon, and his men at arms advanced toward the county of Tonnerre.
 
 
 
@@ -3383,7 +3351,7 @@ CHAP. XLII.
  WON IN BURGUNDY.
 
 
-When the duke of Burgundy had sojourned some days at Ch‚tillon, he
+When the duke of Burgundy had sojourned some days at Ch√¢tillon, he
 ordered the duchess to go to Dijon, where she was most honourably
 received, and he himself went after his army. He had Lussigines and
 Passy besieged; and the first was so hard pressed that the garrison
@@ -3598,7 +3566,7 @@ nevertheless, new ministers were appointed for the management of his
 affairs.
 
 At this time, Philip lord de Saveuses resided in Mondidier with a
-sufficient garrison to oppose the French in CompiËgne, Ressons,
+sufficient garrison to oppose the French in Compi√®gne, Ressons,
 Mortemer, Bretueil, and other places. These had made an excursion to
 the amount of about one hundred and fifty combatants into the country
 of Santhois, where they were met by the lord de Saveuses, who slew or
@@ -3877,8 +3845,8 @@ About this time, the town and castle of Provins in Brie was won by
 scalado, from the French, by the English and Burgundians. Their
 principal captains on this expedition were sir John Raillart, Mando
 de Lussach, Thomas Girard, governor of Montereau-faut-Yonne, Richard
-HuÁon, and others, with about four hundred combatants. The leader of
-the scalers was one called Grosse-tÍte.
+Hu√ßon, and others, with about four hundred combatants. The leader of
+the scalers was one called Grosse-t√™te.
 
 The castle was gained at five o'clock in the morning, although the
 governor de Gueraines, with five hundred fighting men, defended
@@ -4194,7 +4162,7 @@ Grantsy, which had for some time been besieged by sir John de Vergy
 and his allies. The inhabitants, seeing no hope of being succoured,
 concluded a treaty to surrender it to the duke, when the castle was
 not destroyed, but given to the lord de Thil, brother to the lord de
-Ch‚teau-vilain.
+Ch√¢teau-vilain.
 
 When this had been done, the duke ordered sir John de Vergy, and the
 other captains as well from Burgundy as from Picardy, to advance
@@ -4288,7 +4256,7 @@ The duke of Burgundy placed several of his Picardy captains as a
 garrison in that town, whence they committed innumerable mischiefs
 all over that part of the Bourbonnois. On the other hand, the duke of
 Burgundy sent a detachment from his army in Burgundy to Dombes, and
-to the neighbourhood of Lyon on the RhÙne, who took many castles, and
+to the neighbourhood of Lyon on the Rh√¥ne, who took many castles, and
 wasted the country with fire and sword, carrying back with them a very
 large booty in plunder. The leaders of this last expedition were, the
 count de Fribourg, the bastard de St Pol, the lord de Vaurin, and some
@@ -4307,7 +4275,7 @@ CHAP. LXIV.
 In this same year of 1434, the lord Willoughby, accompanied by
 Mathagon and some other captains, and from eight hundred to a thousand
 combatants, laid siege to a very strong place in the country of Maine
-called St Severin, about two leagues distant from AlenÁon, which was
+called St Severin, about two leagues distant from Alen√ßon, which was
 held by the French. The governor was a gallant knight, named sir
 Anthony de Loreuil, who, on the arrival of the enemy, made a vigorous
 defence: nevertheless, the English surrounded the place on all sides,
@@ -4454,7 +4422,7 @@ A murderous war having been continued for a long time between the
 duke of Burgundy and his brother-in-law, the duke of Bourbon, secret
 negotiations were set on foot, in the hope of pacifying them. They
 were begun by commissioners from each side meeting in the town of
-M‚con, where they remained several days. At the commencement, some
+M√¢con, where they remained several days. At the commencement, some
 difficulties arose respecting the precedency of these two dukes, and
 which should have the honour of being named first. After some dispute,
 it was settled that the duke of Burgundy should be first named, and
@@ -4550,7 +4518,7 @@ an inroad on the country of Ardennes, sacking many towns belonging to
 Everard de la Marche; and having done great mischiefs there with fire
 and sword, returned in safety with a very large booty.
 
-In this year, RenË duke of Bar caused the town of Commerci[13] to be
+In this year, Ren√® duke of Bar caused the town of Commerci[13] to be
 besieged, to reduce it to his obedience, on account of the failure of
 some dues that he claimed from its lord; but through the interference
 of the constable of France, who was then in the adjoining country,
@@ -4662,7 +4630,7 @@ was well defended by the garrison and inhabitants.
 
 When they found they could not succeed, they departed thence, making
 great mockeries of their enemies, and marched to Avranches, before
-which place they remained eight days, in hopes that the duke of AlenÁon
+which place they remained eight days, in hopes that the duke of Alen√ßon
 would come to their support with a strong force of men at arms,--but in
 this they were disappointed.
 
@@ -4745,7 +4713,7 @@ CHAP. LXXII.
 
 In the beginning of the month of May, sir John de Bressay, lieutenant
 to the marshal de Rieux, Bertrand Martel, William Braquemont, the lord
-de Longueval, Charles de MarÍts, and others of king Charles's party,
+de Longueval, Charles de Mar√™ts, and others of king Charles's party,
 assembled a body of well tried men at arms, amounting to about three
 hundred. They crossed the Somme during the night at Blanchetaque, and
 advanced to the town of Rue, which they entered by scalado, and gained
@@ -4790,7 +4758,7 @@ He was remonstrated with on the great prejudice this would be to those
 of his party, more particularly to the town and castle of Crotoy. To
 provide a remedy, he wrote to the earl of Arundel, then quartered near
 to Mantes, ordering him to collect all his men and to march them to
-Gournay in Normandy, thence to Neuf-ch‚tel d'Azincourt, to Abbeville
+Gournay in Normandy, thence to Neuf-ch√¢tel d'Azincourt, to Abbeville
 and to Ponthieu, instantly to besiege the town of Rue.
 
 The earl partly obeyed the orders of the duke, and marched eight
@@ -4982,7 +4950,7 @@ concluded for its surrender on a certain day, unless the English should
 appear there in force to offer the French battle.
 
 Before the term expired, the lords Talbot, Scales, and Warwick, with
-George de Richammes, the bastard de Thian, sir FranÁois l'Arragonois,
+George de Richammes, the bastard de Thian, sir Fran√ßois l'Arragonois,
 and others, to the amount of three thousand combatants, assembled, and
 marched to join the lord de l'Isle-Adam in Paris; and, when united,
 they all came to the castle of Orville to keep the appointment made
@@ -5040,7 +5008,7 @@ no advantage could be taken of them,--and they arrived safely at the
 places whence they had come.
 
 When the French had remained some days at Rue, and divided their
-plunder, they made another excursion toward Dourlens and HÍdin, burning
+plunder, they made another excursion toward Dourlens and H√™din, burning
 and destroying the countries they traversed, and bringing home many
 prisoners and great pillage of every thing that was portable. They
 returned by La Broi, and made an attack on the castle; but it was so
@@ -5087,7 +5055,7 @@ whom they had had orders to that effect.
 
 The whole of the town went out to meet them on their arrival, with
 great crowds of people, who escorted them with cries of joy to their
-hÙtels, where many rich presents were made them.
+h√¥tels, where many rich presents were made them.
 
 
 
@@ -5178,7 +5146,7 @@ of his body-guard, all dressed in a rich uniform, to precede him,--and
 wherever he passed, the people sang carols for his arrival. In this
 state, he went to pay his compliments to the cardinal de Santa Croce,
 and then to the cardinal of Cyprus, whence he retired to his lodgings
-in his hÙtel at La Cour-le-Comte.
+in his h√¥tel at La Cour-le-Comte.
 
 
 
@@ -5200,16 +5168,16 @@ Cambray, and thence they journeyed until they came to the wood of
 Mouf-laine, within half a league of Arras. The principal persons
 in this embassy were the duke of Bourbon, the count de Richemont,
 constable of France, who had each married a sister of the duke of
-Burgundy, the count de VendÙme, the archbishop and duke of Rheims
+Burgundy, the count de Vend√¥me, the archbishop and duke of Rheims
 chancellor of France, sir Christopher de Harcourt, sir Theolde de
 Valperge, the lord de la Fayette marshal of France, the lords de St
-Pierre and du Ch‚tel, sir James du Bois, sir John de Ch‚tillon bastard
-de Dampierre, sir Paillaird du FiË, the lord de Raillieq, the lord de
+Pierre and du Ch√¢tel, sir James du Bois, sir John de Ch√¢tillon bastard
+de Dampierre, sir Paillaird du Fi√®, the lord de Raillieq, the lord de
 Rommet, the lord de Courselles, master Adam de Cambray first president
 of the parliament, the dean of Paris, named master John Tudart, the
 treasurer of Anjou, the borgne Blesset, master John Chanetier, the lord
 de Cletel, the lord de la Motte, master Adam le Queux, master John de
-TaisË, with many other able men, as well noble as not, accompanied by
+Tais√®, with many other able men, as well noble as not, accompanied by
 four or five hundred horsemen, including those who had gone before to
 prepare their lodgings.
 
@@ -5228,7 +5196,7 @@ tabards, with the arms of the different princes then at Arras, among
 whom Montjoye, king at arms for king Charles of France, took the lead.
 
 Next to them, but a few paces before the dukes, rode the constable,
-the counts de VendÙme and d'Estampes, and the damoisel de Cleves, with
+the counts de Vend√¥me and d'Estampes, and the damoisel de Cleves, with
 a few more of the higher nobility: the remainder of the knights,
 lords and esquires followed close behind the dukes; and in this order
 they advanced in front of the town-house, to the small market-place,
@@ -5236,7 +5204,7 @@ multitudes of people shouting and singing carols wherever they passed.
 
 The duke of Burgundy now separated from them, and returned with his
 household to his lodgings: he would have attended his brothers-in-law
-to their hÙtels, but they insisted he should return, while they made a
+to their h√¥tels, but they insisted he should return, while they made a
 visit to the two cardinals. Having done this, they went to the lodgings
 that had been prepared for them, and received many rich presents from
 churchmen as well as from seculars.
@@ -5253,13 +5221,13 @@ the duchess's ladies and damsels, dressed in similar robes and hoods to
 the others.
 
 Near to the litter were the dukes de Bourbon and de Gueldres, the
-constable of France, and the count de VendÙme,--and the rest of the
+constable of France, and the count de Vend√¥me,--and the rest of the
 nobility rode either before or behind the duchess, excepting the
 English, who had taken their leave of her while in the open country,
 and were returned to their lodgings in Arras.
 
 The duchess, thus attended, went to pay her respects to the cardinals;
-after which she went to the hÙtel of her lord the duke of Burgundy,
+after which she went to the h√¥tel of her lord the duke of Burgundy,
 who received her most joyfully and honourably, and gave a handsome
 entertainment to the two dukes and the other nobles who had accompanied
 her.
@@ -5302,7 +5270,7 @@ On the 11th day of August in this year, a combat at arms took place at
 Arras, in the presence of the duke of Burgundy as judge of the lists.
 A handsome scaffold was erected for him in the great market-place, on
 which were seated behind him the dukes of Bourbon and of Gueldres, the
-counts de Richemont constable, de VendÙme, d'Estampes, and many other
+counts de Richemont constable, de Vend√¥me, d'Estampes, and many other
 great lords.
 
 The combat was between sir John de Mello, a very renowned knight
@@ -5423,7 +5391,7 @@ him for his courage, in thus having fought with his vizor raised,--for
 the like had not been before seen.
 
 When this combat was over, the duke of Burgundy paid great respect and
-attention to the Spanish knight, by feasting him at his hÙtel on the
+attention to the Spanish knight, by feasting him at his h√¥tel on the
 Sunday and following days,--presenting him, at the same time, with many
 rich presents, to reimburse him for all the expenses he had been at.
 The knight soon afterward took leave of the duke and his company, and
@@ -5439,9 +5407,9 @@ CHAP. LXXXIII.
 
 On the Monday, which was the feast of our Lady of the middle of
 August, the dukes of Burgundy, of Bourbon, and of Gueldres, the counts
-d'Estampes, de Richemont, de VendÙme, de St Pol, de Ligny, de Meurs
+d'Estampes, de Richemont, de Vend√¥me, de St Pol, de Ligny, de Meurs
 and de Nassau, with the greater part of their attendant knights and
-esquires, went on horseback in great concord from the hÙtel of the
+esquires, went on horseback in great concord from the h√¥tel of the
 duke of Burgundy, to hear the mass of our Lady in the city, richly
 dressed in most splendid habiliments. The poor people, who were there
 in crowds, were very much rejoiced to see this, as they hoped it would
@@ -5564,7 +5532,7 @@ CHAP. LXXXVI.
 On the 16th day of August, in this year, the kings of Arragon and of
 Navarre, the grand master of the order of St James, their brother, the
 duke of Sessia, and his son the count de Fondi, the prince of Tarentum,
-his son sir Christopher GarganeymË,[21] surnamed the Eagle, the viceroy
+his son sir Christopher Garganeym√®,[21] surnamed the Eagle, the viceroy
 of Sicily, and four hundred knights and esquires, were made prisoners
 before the town of Gaieta, and their army, of four thousand soldiers,
 defeated.
@@ -5594,7 +5562,7 @@ from the obedience and protection of the duke of Milan.[22]
 
 FOOTNOTES:
 
-[Footnote 21: GarganeymË. Q.]
+[Footnote 21: Garganeym√®. Q.]
 
 [Footnote 22: 'In the year 1435, the town of Gaieta, in the kingdom
 of Naples, offered to submit itself to the protection of the Genoese,
@@ -5604,7 +5572,7 @@ garrison to defend the place. Alphonso hastens to besiege it,--and
 Gaieta, ill provided with provision, is reduced to great distress.
 
 'The Genoese, informed of the situation of the garrison, send thither,
-on the 22d July, a fleet under the command of Luca AserÈto, a famous
+on the 22d July, a fleet under the command of Luca Aser√©to, a famous
 captain, to their relief. Alphonso, hearing of this, embarks on board
 his own fleet, with all the nobility and eleven thousand combatants.
 The fleets meet near to the island of Ponza on the 5th August, and the
@@ -5684,7 +5652,7 @@ Corbeil as latterly in our city of Arras for this desirable purpose.
 'To this place our very-redoubted lord, king Charles, has sent our
 most dear and well beloved brothers and cousins, the duke of Bourbon
 and Auvergne, the count de Richemont, constable of France, the count
-de VendÙme, grand master of the household, the very reverend father
+de Vend√¥me, grand master of the household, the very reverend father
 in God the archbishop and duke of Rheims, chancellor of France,
 Christopher de Harcourt, Gilbert lord de la Fayette, marshal of France,
 master Adam de Cambray, first president of the parliament, master John
@@ -5742,7 +5710,7 @@ our holy father the pope and sacred council, and by them given to us.
 
 'These are the offers made by us Charles duke of Bourbon and of
 Auvergne, Arthur count de Richemont constable of France, Louis de
-Bourbon count de VendÙme, Regnault de Chartres archbishop and duke of
+Bourbon count de Vend√¥me, Regnault de Chartres archbishop and duke of
 Rheims, great chancellor of France, Gilbert lord de la Fayette marshal
 of France, Adam de Cambrai first president of the parliament, John
 Tudart dean of Paris, counsellor and master of the requests of the
@@ -5879,7 +5847,7 @@ of fifty thousand crowns.
 'Item, the king, from affection to the duke of Burgundy, agrees that
 the following lands and lordships shall be firmly settled on the said
 duke, his direct heirs and successors, whether male or female, namely,
-the city and county of M‚con and St Jangon, as far as the boundaries
+the city and county of M√¢con and St Jangon, as far as the boundaries
 thereof, with all the towns, villages, lands and revenues thereto
 belonging, which at this moment appertain to and are dependant on the
 domain of the crown of France, without any reservation, excepting the
@@ -5887,7 +5855,7 @@ homage due from these fiefs to the crown, and the patronage of the
 churches and royal foundations, included in the droit de regale,
 and all other royal prerogatives which may belong from ancient times
 in this bailiwick to the crown of France. In all other respects the
-said duke of Burgundy shall hold the county of M‚con, with its towns,
+said duke of Burgundy shall hold the county of M√¢con, with its towns,
 villages, and dependances, and his heirs and successors, for ever, on
 paying the usual homage to the king and crown of France, as a peerage
 under the jurisdiction of the king and his court of parliament in a
@@ -5896,19 +5864,19 @@ the peerage of France.
 
 'Item, on the part of the king shall be yielded up to the duke of
 Burgundy and to his heirs and successors, to whom, after his decease,
-shall devolve this county of M‚con, all profits and emoluments
-whatever that shall become due from the royal towns of M‚con and St
+shall devolve this county of M√¢con, all profits and emoluments
+whatever that shall become due from the royal towns of M√¢con and St
 Jangon, whether from rights attached to royalty or from bailiwicks
 in compensation for protection, or by confiscations, fines, profits
 from the coinage; and all rights of every other description, shall
 be enjoyed by the said duke and his heirs, during their respective
 lives, on the terms and conditions following,--that is to say, on the
 nomination of the said duke of Burgundy, and his heirs after him, of a
-bailiff of M‚con, the king shall appoint the same as his royal judge
+bailiff of M√¢con, the king shall appoint the same as his royal judge
 and commissary, to take cognisance of all crimes and suits appertaining
-to his sovereign jurisdiction throughout the county of M‚con and its
+to his sovereign jurisdiction throughout the county of M√¢con and its
 dependances, according to the usual form and manner in which the royal
-bailiffs of M‚con and Saint Jangon have acted in former times,--but
+bailiffs of M√¢con and Saint Jangon have acted in former times,--but
 henceforth the bailiwick of St Jangon shall be abolished. And in like
 manner, on the recommendation of the said duke and his heirs, shall the
 king appoint all officers necessary for the good government of this
@@ -5919,14 +5887,14 @@ said duke of Burgundy and his heirs.
 'Item, in like manner, all profits from taxes shall be transferred
 from the king to the said duke, together with the duties on salt, on
 wines sold by retail, and every other imposition that may have been
-established in the elections of M‚con, Chalons, Autun, and Langres,
+established in the elections of M√¢con, Chalons, Autun, and Langres,
 so far as these elections may extend into Burgundy or the county of
-Charolois, and throughout the whole county of the M‚connois, included
+Charolois, and throughout the whole county of the M√¢connois, included
 within the boundaries of the aforesaid duchy or county, to be enjoyed
 by him and his heirs for ever.
 
 'The recommendation of all officers necessary for the government of the
-county of M‚con and its dependances shall belong to the said duke of
+county of M√¢con and its dependances shall belong to the said duke of
 Burgundy and his heirs, but the commission and institution shall remain
 with the king of France.
 
@@ -5942,7 +5910,7 @@ prerogatives, as the other peers of France.
 'Item, and together with this cession the king of France shall transfer
 to the said duke of Burgundy, and his heirs for ever, all revenues
 payable by the city of Auxerre and its dependances, in as ample manner
-as has been before stated when speaking of the county of M‚con, as has
+as has been before stated when speaking of the county of M√¢con, as has
 been already declared. And also, that on the nomination of the duke of
 Burgundy and his heirs, of persons to fill up the various offices that
 may become vacant, the king of France shall confirm their nominations,
@@ -5958,7 +5926,7 @@ of Auxerre, he having a royal commission for his authority. All the
 revenues of taxes, and of every sort of imposition shall be transferred
 to the said duke of Burgundy in a manner similar to what has been
 before declared in the article relative to the cession of the same in
-the county of M‚con and its dependances.
+the county of M√¢con and its dependances.
 
 'Item, in like manner shall the king of France cede to the duke of
 Burgundy and to his heirs, whether male or female, descending in a
@@ -5996,7 +5964,7 @@ parliament, on doing him immediate homage. The king shall also yield
 up to the said duke of Burgundy, and his heirs, all right to the taxes
 and other impositions, together with every other claim of profit, in as
 ample a manner as has been before declared in the preceding articles
-respecting the counties of M‚con and Auxerre.
+respecting the counties of M√¢con and Auxerre.
 
 'Item, the king of France shall yield up to the duke of Burgundy, and
 to the person whom after his decease the said duke shall have declared
@@ -6240,7 +6208,7 @@ Burgundy shall act in a similar manner.
 declaration, sealed with his seal, but the declarations and seals
 of the princes of his blood and under his obedience,--namely, the
 seals of the duke of Anjou, his brother the lord Charles, the duke of
-Bourbon, the count of Richemont, the count of VendÙme, the count of
+Bourbon, the count of Richemont, the count of Vend√¥me, the count of
 Foix, the count of Auvergne, the count of Perdiac, and others,--which
 declarations of the princes shall be incorporated with that of the
 king, who shall with them promise faithfully to maintain the contents
@@ -6461,7 +6429,7 @@ CHAP. XC.
 
 In the month of September of this year, Isabella queen of France, and
 mother to king Charles then on the throne, was taken grievously ill
-at her apartments in the king's hÙtel of St Pol. She had for some
+at her apartments in the king's h√¥tel of St Pol. She had for some
 time lived in great poverty, owing to the distresses and troubles
 of the war,--and her disorder increased so much that it caused her
 death. She was buried in the church of St Denis, but not with the
@@ -6469,7 +6437,7 @@ solemnity and state usual at the funerals of queens of France. When
 the duke of Burgundy heard of her decease, he had a grand and solemn
 service performed for her in the church of St Waast at Arras, which he
 personally attended, dressed in mourning. The duke was supported by the
-count d'Estampes, the count de VendÙme, the heir of Cleves, and many
+count d'Estampes, the count de Vend√¥me, the heir of Cleves, and many
 other ecclesiastical and secular lords in mourning. The service was
 performed by the bishop of Arras.
 
@@ -6529,7 +6497,7 @@ CHAP. XCII.
 
 On the conclusion of the peace at Arras, the duke of Burgundy sent his
 king at arms of the order of the Golden Fleece, with another of his
-heralds called Franche-comtÈ, to England with letters from the duke to
+heralds called Franche-comt√©, to England with letters from the duke to
 king Henry. These letters contained strong remonstrances to induce the
 king and his council to conclude a peace with the king of France,--and
 were also explanatory of the causes which had induced the duke, by the
@@ -6614,7 +6582,7 @@ government.
 This intelligence made bad worse, and the council determined not to
 send any answer. Upon which, the lord treasurer went to the three
 messengers at their lodgings, and told the heralds, Toison and
-Franche-comtÈ, that the king, with the princes of his blood and his
+Franche-comt√©, that the king, with the princes of his blood and his
 council, had seen and examined the letters they had brought,--and that
 they had been equally surprised at their contents as at the conduct of
 the duke, for which, if it pleased God, the king would provide a remedy.
@@ -6662,7 +6630,7 @@ to all they said, appeasing them by gentle words; and as they were the
 masters, he agreed to go with them wherever they pleased through the
 town.
 
-They made captain over them one HonorÈ Cokin, and went first to the
+They made captain over them one Honor√© Cokin, and went first to the
 house of master Tristan, with the intent to put him to death; but
 he, having had from his friends intelligence of this, had escaped.
 They broke, however, many doors and windows in search of him,--and
@@ -6697,7 +6665,7 @@ different parts drew toward Amiens, and all the principal lords of
 Picardy, under pretence of besieging the castle of Bonnes, whither had
 retreated a body of pillagers.
 
-HonorÈ Cokin did not securely rely upon his companions, and was
+Honor√© Cokin did not securely rely upon his companions, and was
 doubtful if they would not play him false, notwithstanding that they
 had been with the count d'Estampes, the governor and bailiff, to excuse
 themselves and him for what had passed. They had received courteous
@@ -6726,12 +6694,12 @@ principal rioters, was present, and, hearing its contents, took to his
 heels,--but orders were instantly given to seize him. He was pursued
 into the church of Saint Germain, and found kneeling beside a priest
 saying mass; but, notwithstanding this, he was taken and carried to
-the belfry. On the other hand, HonorÈ Cokin, knowing of this meeting,
+the belfry. On the other hand, Honor√© Cokin, knowing of this meeting,
 had armed himself, with some of his associates, to attend it; but he
 was met by the governor and the bailiff, who instantly arrested him
 and sent him also to the belfry. Twenty or thirty other rebels were
 made prisoners, in different parts of the town; and this same day
-HonorÈ with seven others, his companions, had their heads cut off
+Honor√© with seven others, his companions, had their heads cut off
 with a cooper's adze. Perrinet Chalons and two others were hanged and
 quartered on a gibbet: one was drowned, and about fifty banished the
 town. There were, afterward, several executed, for the same cause, at
@@ -6767,16 +6735,16 @@ from that country.
 The English at this period laid siege to the bridge of Meulan, which
 the French had lately won, but, from some obstacles that arose, gave
 it up. In another quarter, the marshal de Rieux and Charles des
-MarÍts gained the town of Dieppe, and some others in Normandy, in the
+Mar√™ts gained the town of Dieppe, and some others in Normandy, in the
 following manner.
 
 Soon after the conclusion of the peace at Arras, several valiant French
 captains, such as the marshal de Rieux, Gaucher de Boussach, the lord
 de Longueval, and others, having with them from three to four hundred
-tried soldiers, marched, by the invitation of Charles des MarÍts, on
+tried soldiers, marched, by the invitation of Charles des Mar√™ts, on
 the Friday preceding All-saints-day, to escalade the strong town of
 Dieppe, seated on the sea-coast, and in the plentiful country of Caux.
-Charles des MarÍts entered the town secretly, with about six hundred
+Charles des Mar√™ts entered the town secretly, with about six hundred
 combatants, on the side toward the harbour, and thence hastened to
 destroy the gate leading toward Rouen,--by which the marshal watered
 with his men at arms on foot, and with displayed banners.
@@ -6798,7 +6766,7 @@ willing to take the oaths of fidelity and allegiance to king Charles.
 There were in the harbour numbers of vessels, the greater part of
 which fell into the hands of the French. The day the town was taken,
 proclamation was made for all foreigners to leave it, except such as
-were willing to take the oaths,--and Charles des MarÍts was unanimously
+were willing to take the oaths,--and Charles des Mar√™ts was unanimously
 appointed governor for the king of France.
 
 The whole of the English throughout Normandy were greatly troubled and
@@ -6818,7 +6786,7 @@ French forces, and took oaths, in the presence of the marshal de Rieux,
 to wage a perpetual warfare against the English.
 
 When these troops had been properly arranged, they took the field in
-good array on Christmas-eve, and marched to FÈcamp,[23] which by means
+good array on Christmas-eve, and marched to F√©camp,[23] which by means
 of the lord de Milleville was surrendered to the marshal, on promise of
 remaining unmolested. John d'Estouteville was made governor thereof;
 and on the morrow of Christmas-day the army advanced to Monstier
@@ -6847,14 +6815,14 @@ loss to the French.
 
 The count de Richemont, constable of France, now joined this army,
 to whom, on his arrival, the towns and castles of Charles-Maisnil,
-Aumarle, St Germain sur Cailly, Fontaines le bourg, PrÈaux, Blainville
+Aumarle, St Germain sur Cailly, Fontaines le bourg, Pr√©aux, Blainville
 and others, surrendered, in all of which garrisons were placed; and
 thus, at this season, was the greater part of the country of Caux
 conquered by the French. It is true, that they were forced from want
 of provision to leave these parts,--but their captains, before they
 departed, posted strong garrisons along the frontier.
 
-Charles des MarÍts and Richarville were present at all these
+Charles des Mar√™ts and Richarville were present at all these
 conquests: they took the field from Dieppe, and joined the marshal de
 Rieux, the lord de Torsy, Poton le Bourguignon, Broussart, Blanchefort,
 John d'Estouteville, and other captains renowned in war. To them,
@@ -6864,7 +6832,7 @@ country.
 
 FOOTNOTES:
 
-[Footnote 23: FÈcamp,--a city of Normandy by the sea, diocese of Rouen.]
+[Footnote 23: F√©camp,--a city of Normandy by the sea, diocese of Rouen.]
 
 
 
@@ -7291,7 +7259,7 @@ safety, with all their effects. They had a passport from the constable,
 under which they went by land and water to Rouen.
 
 The Parisians, at their departure, set up a grand shouting at them,
-crying out '‡ la queue[25]!' Thus was the city of Paris reduced to the
+crying out '√† la queue[25]!' Thus was the city of Paris reduced to the
 obedience of king Charles. The English, after passing the gate leading
 to the country, went round to embark at the back of the Louvre. The
 bishop of Therouenne lost all the rich ornaments of his chapel; and the
@@ -7314,8 +7282,8 @@ the French and Picards, now returned to the places they had come from.
 FOOTNOTES:
 
 [Footnote 25: In the French Dictionary of Richelet, it is thus
-explained: _‡ la queue leu leu_, (_Continenti serie ludere_) a kind
-of play, which means, 'the tail of the wolf.' To play _‡ la queue leu
+explained: _√† la queue leu leu_, (_Continenti serie ludere_) a kind
+of play, which means, 'the tail of the wolf.' To play _√† la queue leu
 leu_, is said when children place themselves in a file, and the leader,
 making a half-wheel round, drags the rest after him, endeavouring to
 catch hold of the last in the file.]
@@ -7395,7 +7363,7 @@ castles, on his presenting himself before them.
 
 FOOTNOTES:
 
-[Footnote 26: Braine,--near CompiÈgne.]
+[Footnote 26: Braine,--near Compi√©gne.]
 
 [Footnote 27: Chavensy. Q.]
 
@@ -7457,7 +7425,7 @@ by a priest who acted as their captain,--and he, after hanging his
 companions, was tied to a tree and burnt, and the castle razed to the
 ground.
 
-The bishop, after this exploit, marched away toward the upper Ch‚telet;
+The bishop, after this exploit, marched away toward the upper Ch√¢telet;
 but many of his army wanted to march to Hirson[36] and other places
 of sir John de Luxembourg,--because, they said, he was the supporter
 of those they were now making war on. But this same day the bastard
@@ -7476,7 +7444,7 @@ intended plan.
 The bishop, with a part of his army, then marched to the castle of
 Aubigny, when, finding that the garrison had fled through fear of
 him, he ordered the castle to be burnt. From Aubigny he went to
-upper Ch‚telet, wherein a body of his men were, for the garrison had
+upper Ch√¢telet, wherein a body of his men were, for the garrison had
 abandoned it,--and it was destroyed as the others had been.
 
 The bishop had intended marching to Villiers; but his intention being
@@ -7845,7 +7813,7 @@ river at Gravelines, and fixed their quarters at Tournehem, not far
 distant. The weather was at this time dreadfully severe, with rain and
 such high winds that they could not pitch their tents, but were forced
 to lie on the ground. Three Picards were arrested and hanged by the
-ghent men, for robbing the landlord of an hÙtel of his provisions.
+ghent men, for robbing the landlord of an h√¥tel of his provisions.
 
 The count d'Estampes here joined the army of Flanders with the men at
 arms the duke of Burgundy had ordered on this expedition,--and on a
@@ -7999,7 +7967,7 @@ strong town of Calais, wondering what was become of his fleet,
 which ought to have arrived some time. The Flemings were also much
 discontented, and began loudly to complain of the duke's council,
 and against the admirals of the fleet, namely, sir John de Hornes,
-seneschal of Brabant, and the commander de la MorÈe; but the duke
+seneschal of Brabant, and the commander de la Mor√©e; but the duke
 appeased them with gentle words, saying that they would soon arrive, as
 he had lately had letters from them,--and that hitherto the wind had
 been against them, which had prevented their sailing sooner.
@@ -8095,7 +8063,7 @@ they could not convey into the town they burnt and destroyed,
 notwithstanding a continual fire from the fleet, to the great
 astonishment of the duke and his admirals.
 
-Sir John de Hornes, seneschal of Brabant, the commander de la MorÈe,
+Sir John de Hornes, seneschal of Brabant, the commander de la Mor√©e,
 and other lords from Holland, set sail with the fleet on the morrow,
 and were soon out of sight, on their return to whence they had come;
 for indeed they could not with safety remain long before Calais, on
@@ -8390,8 +8358,8 @@ all sides, and none of the Flemings dared wait his coming. He drove,
 therefore, away great numbers of cattle, with little or no loss of
 men,--but they suffered much from want of bread.
 
-He passed le Neuf-ch‚tel, and burnt Rimesture and Valon-Chapelle.
-Having entered Artois, he advanced to Arques[43] and BlandÍques,[44]
+He passed le Neuf-ch√¢tel, and burnt Rimesture and Valon-Chapelle.
+Having entered Artois, he advanced to Arques[43] and Bland√™ques,[44]
 where some skirmishing passed,--and he set fire to every town and
 village that lay in his way. Marching through the jurisdiction of
 St Omer, he committed great waste on all sides; and when near to
@@ -8412,7 +8380,7 @@ them were very frequently surprised by the enemy when at a distance
 from their vanguard.
 
 While these things were passing in Artois and Flanders, sir Thomas
-Kiriel and lord Faulconbridge assembled at Neuf-ch‚tel d'Incourt about
+Kiriel and lord Faulconbridge assembled at Neuf-ch√¢tel d'Incourt about
 a thousand combatants, whom they led across the Somme at Blanchetaque,
 and quartered at Forest-montier; thence they advanced to Broye, on the
 river Authie, where they remained four days, and took the castle by
@@ -8432,7 +8400,7 @@ FOOTNOTES:
 
 [Footnote 43: Arques,--diocese of St Omer.]
 
-[Footnote 44: BlandÍques,--diocese of St Omer.]
+[Footnote 44: Bland√™ques,--diocese of St Omer.]
 
 [Footnote 45: Bredenarde,--diocese of St Omer.]
 
@@ -8548,7 +8516,7 @@ they were frequently not attended to by others, even though of the same
 party.
 
 About this time, sir John de Hornes, seneschal of Brabant, who had had,
-with the lord de la MorÈe, the command of the duke of Burgundy's fleet
+with the lord de la Mor√©e, the command of the duke of Burgundy's fleet
 before Calais, was met near the sea-coast, by a party of Flemings,
 where he was attending his private affairs, and accompanied by a few
 servants, who put him to death, to the great sorrow of the duke of
@@ -8602,12 +8570,12 @@ Similar reprisals were made by La Hire and the king's friends on those
 of sir John de Luxembourg,--and thus was the country oppressed and
 ruined, as well by one party as by the other.
 
-After the duke of York had gained the town of FÈcamp, by the surrender
+After the duke of York had gained the town of F√©camp, by the surrender
 of John d'Estouteville, it was reconquered by the French from the
 English,--and nearly at the same time the duke of York gained, after
 a long siege, St Germain sur Cailly[46], when about twelve of the
 French were hanged. In like manner were the towns of Fontaines sur
-PrÈaux[47], Bourg,[48] Blainville,[49] PrÈaux,[50] Lillebonne,[51]
+Pr√©aux[47], Bourg,[48] Blainville,[49] Pr√©aux,[50] Lillebonne,[51]
 Tancarville,[52] and other strong places reconquered, and the greater
 part destroyed by the English. After this, they continued to waste all
 the corn countries round Harfleur, with the intent of laying siege to
@@ -8617,13 +8585,13 @@ FOOTNOTES:
 
 [Footnote 46: St Germain-sur-Cailly,--in Normandy, diocese of Rouen.]
 
-[Footnote 47: Fontaines-sur-PrÈaux,--diocese of Rouen.]
+[Footnote 47: Fontaines-sur-Pr√©aux,--diocese of Rouen.]
 
 [Footnote 48: Bourg Baudorion,--diocese of Rouen.]
 
 [Footnote 49: Blainville,--diocese of Rouen.]
 
-[Footnote 50: PrÈaux,--diocese of Rouen.]
+[Footnote 50: Pr√©aux,--diocese of Rouen.]
 
 [Footnote 51: Lillebonne,--diocese of Rouen.]
 
@@ -8662,7 +8630,7 @@ mentioned,--and some of his children were hostages for him in Burgundy.
 This treaty was concluded, on condition that the king of Sicily would
 engage to pay a certain sum of money for his ransom, for the security
 of which he was to pledge four of his towns and castles in his duchies
-of Lorraine and Bar, namely, Neuf-ch‚tel in Lorraine, Clermont in
+of Lorraine and Bar, namely, Neuf-ch√¢tel in Lorraine, Clermont in
 Argonne, Princhy[54] and Louye,[55] which were to be given up to the
 duke when demanded. The duke of Burgundy, shortly after, placed his own
 garrisons and captains in these towns and castles.
@@ -8685,7 +8653,7 @@ Baptist's day ensuing, on his promising to abstain from all hostilities
 during that time.
 
 During these feasts, William de Flavy, who had been driven out of
-CompiÈgne by the constable of France, found means to re-enter it,
+Compi√©gne by the constable of France, found means to re-enter it,
 with a large body of men at arms, and kept possession a long time; in
 which at length he was confirmed by king Charles, in spite of all the
 attempts of the constable to reconquer it.
@@ -8702,7 +8670,7 @@ made excursions, and frequently to the very gates of Paris.
 
 FOOTNOTES:
 
-[Footnote 53: Sir Richard Woodville paid a fine of £1000 to the
+[Footnote 53: Sir Richard Woodville paid a fine of ¬£1000 to the
 king for marrying the duchess of Bedford without a licence. He
 was afterwards created earl of Rivers, and was father to the lady
 Elizabeth, queen to king Edward IV.--_Parl. Hist._]
@@ -8747,7 +8715,7 @@ Page 4. line 5. _Bousac._] Jean de Brosse, descended from the ancient
 viscounts de Brosse in the Angoumois, was lord of St Severe and
 Boussac, and a marshal of France. He signalized himself in many
 actions, particularly at the siege of Orleans, and at the battles of
-Patai and la CharitÈ, and died in 1433. His son, of the same name, who
+Patai and la Charit√©, and died in 1433. His son, of the same name, who
 succeeded him, was equally celebrated in the history of the day. He
 married Nicole de Blois only daughter and heir of Charles, last count
 of Penthievre, and transmitted her large possessions to his descendants.
@@ -8773,25 +8741,25 @@ married Margaret de Nanteuil, countess of Dammartin, and assumed the
 title of count de Dammartin by virtue of that marriage. He was grand
 master, governor of Paris, &c., and died in 1488.
 
-Page 13. line 20. _Lord de Ch‚tillon._] Perhaps Charles de Ch‡tillon
+Page 13. line 20. _Lord de Ch√¢tillon._] Perhaps Charles de Ch√†tillon
 lord of Sourvilliers, son of Charles lord of Sourvilliers killed at
 Agincourt.
 
-Page 13. line 20. _Lord de Bonneul._] Another Charles de Ch‚tillon, of
+Page 13. line 20. _Lord de Bonneul._] Another Charles de Ch√¢tillon, of
 a younger branch, was lord of Bonneuil.
 
-Page 29. line last. _Quarrel._] RenË claimed the duchy of Lorraine in
+Page 29. line last. _Quarrel._] Ren√® claimed the duchy of Lorraine in
 right of his wife Isabella, only daughter of Charles the late duke;
 and Heuterus, relating the cause of this quarrel, says that Anthony
-count of Vaudemont, brother of the deceased refused to admit RenË's
+count of Vaudemont, brother of the deceased refused to admit Ren√®'s
 pretensions, alledging that the duchy could not descend to the heirs
 female. For some reasons, however, it would appear probable that
 Heuterus is mistaken, and that the dispute related to the affairs of
 the county of Vaudemont only.
 
 Page 36. line 7. _Count de Fribourg._] The county of Freyburg became
-united with that of Neufch‡tel by the marriage of Egon XIV, count of
-Furstenburg and Freyburg, with Verena heiress of Neufch‡tel. Their
+united with that of Neufch√†tel by the marriage of Egon XIV, count of
+Furstenburg and Freyburg, with Verena heiress of Neufch√†tel. Their
 grandson John count of Freyburg, &c. married a daughter of the prince
 of Orange, but died 1458 without issue.
 
@@ -8843,7 +8811,7 @@ of which the _generous_ robber assigned to his late prisoner the county
 of Ostervant, the lordships of Brill and south Beveland, with the
 collection of certain tolls and imposts, on which they lived together
 but a short time before death put a period to her eventful history,
-in the month of October 1436. _Barlandi HollandiÊ comitum historia et
+in the month of October 1436. _Barlandi Hollandi√¶ comitum historia et
 Icones._
 
 Page 98. line 18. _Thomas Conette._] This unfortunate heretic was a
@@ -8918,12 +8886,12 @@ called _le Fleau des Anglais_.
 Page 137. line last. _Pregent de Coetivy._] Coetivy, the name of an
 ancient family of lower Brittany. Pregent VII, lord of Coetivy, was
 eldest son of Alan III. killed at the siege of St James de Beauvron
-in 1424, and of Catherine daughter of HervË lord of Ch‡tel, killed at
+in 1424, and of Catherine daughter of Herv√® lord of Ch√†tel, killed at
 Jersey. This Pregent married Mary de Laval, daughter of the infamous
 marshal de Retz. He was chamberlain in 1424, governor of La Rochelle,
 and in 1439 promoted to the high office of admiral of France. He was
 killed at Cherbourg in 1450. "Ce fut un gran dommage et perte notable
-pour le Roi, car il etoit tenu des vaillans chevaliers et renommÈ du
+pour le Roi, car il etoit tenu des vaillans chevaliers et renomm√© du
 royaume, fort prudent et encor de bon age." Hist. du Roi Charles VII.
 
 Page 139. line 4. _Count de Penthievre._] Oliver de Bretagne, or de
@@ -9007,7 +8975,7 @@ Montferrant, who occurs again vol. 8. p. 28.
 Page 223. line 3. _Bishop of Ache._] There came to this convention
 according to Stowe, Nicholas Albergat, a Carthusian friar, entitled a
 priest cardinal of the holy cross, and Hugh de Lusignan, a _Cyprian_ (I
-presume he means Cypriot) Greek, bishop cardinal of PrÊneste: which, or
+presume he means Cypriot) Greek, bishop cardinal of Pr√¶neste: which, or
 whether either of these, was the person meant by Monstrelet under the
 fanciful name of "bishop of Ache," the reader may determine. Q. Auch.
 
@@ -9035,11 +9003,11 @@ or Wirnemburg, the title of a noble house of the duchy of Luxemburg,
 of whom Robert count of Wirnemburg governed the duchy in the name of
 Elizabeth of Burgundy.
 
-Page 218. line 12. _Du Ch‚tel._] Oliver lord du Ch‚tel, chamberlain of
-Bretagne; son of HervË lord du Ch‚tel, killed at Jersey, and brother to
+Page 218. line 12. _Du Ch√¢tel._] Oliver lord du Ch√¢tel, chamberlain of
+Bretagne; son of Herv√® lord du Ch√¢tel, killed at Jersey, and brother to
 the famous Tanneguy.
 
-Page 218. line 14. _Sir Paillard du FiË_.] Q. Fai? John Genevois
+Page 218. line 14. _Sir Paillard du Fi√®_.] Q. Fai? John Genevois
 Bouton, lord of Fai, chamberlain of Burgundy, _bailiff_ of Dole, was
 a commissary sent by the duke on this occasion. It is not impossible
 that an error of the press may have converted his office of _bailli_
@@ -9056,7 +9024,7 @@ fought of which this account is given. The personages here mentioned to
 have been taken prisoners, are the king Alphonso, his brothers, John
 king of Navarre, and Don Henry grand master of St James, the prince of
 Tarento, John Anthony de Marzan, duke of Sessa, Christopher Gaetano,
-count of Fondi, &c. The name of GarganeymÈ, I conjecture to be a
+count of Fondi, &c. The name of Garganeym√©, I conjecture to be a
 blunder for Gaetano; but it is a gross mistake to call him son to the
 prince of Tarento.
 
@@ -9079,7 +9047,7 @@ Page 323. line 6. _Duke of Burgundy._] This prince, the second son of
 Charles VII. died in his infancy.
 
 Page 332. line 4. _Commercy._] Robert de Sarbuck, lord of Commercy,
-(son of AmÈ lord of Commercy and Mary daughter of John lord of
+(son of Am√© lord of Commercy and Mary daughter of John lord of
 Chateauvilain) married in 1417 Jane countess of Roucy and Braine; and
 John, their eldest son, here called the heir of Commercy became count
 of Roucy and Braine by the donation of his mother in 1439.
@@ -9116,7 +9084,7 @@ killed at Agincourt.
 Page 398. line 3. _Franche de Borselline._] Francis, or Frank de
 Borselle. See above.
 
-Page 398. line 7. _Duke of Anjou._] RenË, duke of Bar, who had been
+Page 398. line 7. _Duke of Anjou._] Ren√®, duke of Bar, who had been
 made prisoner as related to p. 42: soon afterward succeeded to the
 duchy of Anjou and to the claims of this house on Sicily and Naples, by
 the death of his brother, Louis III.
@@ -9134,365 +9102,4 @@ Original spelling has been retained.
 End of the Project Gutenberg EBook of The Chronicles of Enguerrand de
 Monstrelet, (Vol. 7 of 13), by Enguerrand de Monstrelet
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE CHRONICLES OF ENGUERRAND ***
-
-***** This file should be named 58083-8.txt or 58083-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/0/8/58083/
-
-Produced by Graeme Mackreth andThe Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58083 ***
